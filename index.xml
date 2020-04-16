@@ -1,0 +1,11 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>streptomises on streptomises</title>
+    <link>https://streptomises.github.io/</link>
+    <description>Recent content in streptomises on streptomises</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <atom:link href="https://streptomises.github.io/" rel="self" type="application/rss+xml" />
+    
+  </channel>
+</rss>

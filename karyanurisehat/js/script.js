@@ -25,7 +25,7 @@ let messages = {
 			<p>Info COVID-19 Kota Pekalongan :<a href='https://corona.pekalongankota.go.id/'  target='_blank'> Klik Disini</a></p>
 			<p>Info COVID-19 Jateng : <a href='https://corona.jatengprov.go.id/' target='_blank'>Klik DIsini</a></p>
 			<p>Info COVID-19 Dunia :<a href='https://www.worldometers.info/coronavirus/'  target='_blank'> Klik Disini</a></p>
-			<p>*Nyari info tentang COVID-19 itu baik, tapi jangan jadi stes ya nanti bikin imun turun</p>`
+			<p>*Nyari info tentang COVID-19 itu baik, tapi jangan jadi stres ya nanti bikin imun turun</p>`
 	}
 };
 
@@ -98,7 +98,7 @@ let script = {
 		"Udara": [
 			"show e Normal with fadeIn",
 			"e Tetap pake masker kalau mau keluar rumah ya",
-			"e Menurut The Guardian, negara yang mewajibkan penggunakan masker sejak awal menunjukan tingkat kematian yag lebih rendah lho",
+			"e Menurut The Guardian, negara yang mewajibkan penggunakan masker sejak awal menunjukan tingkat kematian yang lebih rendah lho",
 			{"Choice":{
 				"Text":	"Menurut anda apakah COVID-19 menyebar melalui udara?",
 				"Iyaudara":{

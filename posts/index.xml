@@ -6,10 +6,20 @@
     <description>Recent content in Posts on streptomises</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 21 Apr 2020 04:30:26 +0700</lastBuildDate>
+    <lastBuildDate>Sat, 08 Aug 2020 01:16:31 +0700</lastBuildDate>
     
 	<atom:link href="https://streptomises.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Kumpulan Data Covid 19</title>
+      <link>https://streptomises.github.io/2020/datacovid19/</link>
+      <pubDate>Sat, 08 Aug 2020 01:16:31 +0700</pubDate>
+      
+      <guid>https://streptomises.github.io/2020/datacovid19/</guid>
+      <description>1. Dunia   2. Indonesia  3. Jawa Tengah  var divElement = document.getElementById(&#39;viz1596821368058&#39;); var vizElement = divElement.getElementsByTagName(&#39;object&#39;)[0]; if ( divElement.offsetWidth  800 ) { vizElement.style.width=&#39;100%&#39;;vizElement.style.height=(divElement.offsetWidth*0.75)+&#39;px&#39;;} else if ( divElement.offsetWidth  500 ) { vizElement.style.width=&#39;100%&#39;;vizElement.style.height=(divElement.offsetWidth*0.75)+&#39;px&#39;;} else { vizElement.style.width=&#39;100%&#39;;vizElement.style.height=(divElement.offsetWidth*1.77)+&#39;px&#39;;} var scriptElement = document.createElement(&#39;script&#39;); scriptElement.src = &#39;https://public.tableau.com/javascripts/api/viz_v1.js&#39;; vizElement.parentNode.insertBefore(scriptElement, vizElement); 3. Pekalongan Update tanggal 7 Agustus 2020. Sumber : Pemkab Pekalongan dan Pemkot Pekalongan.
+</description>
+    </item>
     
     <item>
       <title>Visual Novel Sederhana Untuk Grup WhatsApp Keluarga</title>

@@ -2,9 +2,23 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
     <url>
+      <loc>https://streptomises.github.io/2020/datacovid19/</loc>
+      
+      <lastmod>2020-08-08T01:16:31+07:00</lastmod>
+      
+      
+      <changefreq>monthly</changefreq>
+      
+      
+      <priority>0.5</priority>
+      
+      
+    </url>
+  
+    <url>
       <loc>https://streptomises.github.io/posts/</loc>
       
-      <lastmod>2020-04-21T04:30:26+07:00</lastmod>
+      <lastmod>2020-08-08T01:16:31+07:00</lastmod>
       
       
       <changefreq>monthly</changefreq>
@@ -18,7 +32,7 @@
     <url>
       <loc>https://streptomises.github.io/</loc>
       
-      <lastmod>2020-04-21T04:30:26+07:00</lastmod>
+      <lastmod>2020-08-08T01:16:31+07:00</lastmod>
       
       
       <changefreq>monthly</changefreq>

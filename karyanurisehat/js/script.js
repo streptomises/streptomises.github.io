@@ -55,10 +55,9 @@ let script = {
 		"Start": [
 			"scene Rs",
 			"show e Normal with fadeIn",
-			"Halo mbak-mbak dan mas-mas keluarga Karyanuri",
+			"Halo mbak-mbak dan mas-mas sekeluarga",
 			"Perkenalkan nama saya Sari",
 			"show e Happy with fadeIn",
-			"e Saya muncul karena kegabutan adik anda hihi",
 			"e Ngomong-ngomong sudah mulai musim panas ya",
 			"e Masih musim COVID-19 juga",
 			"show e Curious with fadeIn",
@@ -159,7 +158,7 @@ let script = {
 
 		"Tidakrokok": [
 			"show e Happy with fadeIn",
-			"e Yes ngga bener itu, yang percaya cuma Mas Aji sama perokok lain mungkin",
+			"e Yes ngga bener itu, yang percaya cuma Mas A sama perokok lain mungkin",
 			"display message Infocorona",
 		],
 

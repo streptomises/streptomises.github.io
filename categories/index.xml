@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on octaviyawn</title>
-    <link>https://streptomises.github.io/categories/</link>
+    <link>https://octaviyawn.xyz/categories/</link>
     <description>Recent content in Categories on octaviyawn</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     
-	<atom:link href="https://streptomises.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://octaviyawn.xyz/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

@@ -2,7 +2,49 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
     <url>
-      <loc>https://streptomises.github.io/2020/datacovid19/</loc>
+      <loc>https://octaviyawn.xyz/2020/mengumpulkan-tweet-yang-membicarakan-laporcovid-19/</loc>
+      
+      <lastmod>2020-11-24T05:00:26+07:00</lastmod>
+      
+      
+      <changefreq>monthly</changefreq>
+      
+      
+      <priority>0.5</priority>
+      
+      
+    </url>
+  
+    <url>
+      <loc>https://octaviyawn.xyz/</loc>
+      
+      <lastmod>2020-11-24T05:00:26+07:00</lastmod>
+      
+      
+      <changefreq>monthly</changefreq>
+      
+      
+      <priority>0.5</priority>
+      
+      
+    </url>
+  
+    <url>
+      <loc>https://octaviyawn.xyz/posts/</loc>
+      
+      <lastmod>2020-11-24T05:00:26+07:00</lastmod>
+      
+      
+      <changefreq>monthly</changefreq>
+      
+      
+      <priority>0.5</priority>
+      
+      
+    </url>
+  
+    <url>
+      <loc>https://octaviyawn.xyz/2020/datacovid19/</loc>
       
       <lastmod>2020-08-08T01:16:31+07:00</lastmod>
       
@@ -16,35 +58,7 @@
     </url>
   
     <url>
-      <loc>https://streptomises.github.io/</loc>
-      
-      <lastmod>2020-08-08T01:16:31+07:00</lastmod>
-      
-      
-      <changefreq>monthly</changefreq>
-      
-      
-      <priority>0.5</priority>
-      
-      
-    </url>
-  
-    <url>
-      <loc>https://streptomises.github.io/posts/</loc>
-      
-      <lastmod>2020-08-08T01:16:31+07:00</lastmod>
-      
-      
-      <changefreq>monthly</changefreq>
-      
-      
-      <priority>0.5</priority>
-      
-      
-    </url>
-  
-    <url>
-      <loc>https://streptomises.github.io/2020/visual-novel-sederhana-untuk-grup-wa-keluarga/</loc>
+      <loc>https://octaviyawn.xyz/2020/visual-novel-sederhana-untuk-grup-wa-keluarga/</loc>
       
       <lastmod>2020-04-21T04:30:26+07:00</lastmod>
       
@@ -58,7 +72,7 @@
     </url>
   
     <url>
-      <loc>https://streptomises.github.io/categories/</loc>
+      <loc>https://octaviyawn.xyz/categories/</loc>
       
       
       <changefreq>monthly</changefreq>
@@ -70,7 +84,7 @@
     </url>
   
     <url>
-      <loc>https://streptomises.github.io/tags/</loc>
+      <loc>https://octaviyawn.xyz/tags/</loc>
       
       
       <changefreq>monthly</changefreq>

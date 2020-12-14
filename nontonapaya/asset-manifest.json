@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/nontonapaya/static/css/main.1ce873cc.chunk.css",
+    "main.js": "/nontonapaya/static/js/main.cd9d3b67.chunk.js",
+    "main.js.map": "/nontonapaya/static/js/main.cd9d3b67.chunk.js.map",
+    "runtime-main.js": "/nontonapaya/static/js/runtime-main.fce14fd4.js",
+    "runtime-main.js.map": "/nontonapaya/static/js/runtime-main.fce14fd4.js.map",
+    "static/js/2.d236861e.chunk.js": "/nontonapaya/static/js/2.d236861e.chunk.js",
+    "static/js/2.d236861e.chunk.js.map": "/nontonapaya/static/js/2.d236861e.chunk.js.map",
+    "index.html": "/nontonapaya/index.html",
+    "precache-manifest.7c1591bd6eb420db98f21947f04d701f.js": "/nontonapaya/precache-manifest.7c1591bd6eb420db98f21947f04d701f.js",
+    "service-worker.js": "/nontonapaya/service-worker.js",
+    "static/css/main.1ce873cc.chunk.css.map": "/nontonapaya/static/css/main.1ce873cc.chunk.css.map",
+    "static/js/2.d236861e.chunk.js.LICENSE.txt": "/nontonapaya/static/js/2.d236861e.chunk.js.LICENSE.txt",
+    "static/media/loading.gif": "/nontonapaya/static/media/loading.3f0f4373.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fce14fd4.js",
+    "static/js/2.d236861e.chunk.js",
+    "static/css/main.1ce873cc.chunk.css",
+    "static/js/main.cd9d3b67.chunk.js"
+  ]
+}

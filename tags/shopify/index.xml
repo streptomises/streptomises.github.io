@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>shopify on octaviyawn</title>
+    <link>https://octaviyawn.xyz/tags/shopify/</link>
+    <description>Recent content in shopify on octaviyawn</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 12 Feb 2021 10:39:09 +0700</lastBuildDate>
+    
+	<atom:link href="https://octaviyawn.xyz/tags/shopify/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>mengubah warna salah satu menu di shopify</title>
+      <link>https://octaviyawn.xyz/2021/mengubahwarnasalahsatumenudishopify/</link>
+      <pubDate>Fri, 12 Feb 2021 10:39:09 +0700</pubDate>
+      
+      <guid>https://octaviyawn.xyz/2021/mengubahwarnasalahsatumenudishopify/</guid>
+      <description>theme.scss.liquid
+.site-header a[href=&amp;#34;/collections/namamenuyangmaudiubah&amp;#34;]{ color: warna; }</description>
+    </item>
+    
+    <item>
+      <title>menambahkan button pada halaman produk di shopify</title>
+      <link>https://octaviyawn.xyz/2021/menambahkanbuttonpadahalamanprodukdishopify/</link>
+      <pubDate>Fri, 12 Feb 2021 10:38:27 +0700</pubDate>
+      
+      <guid>https://octaviyawn.xyz/2021/menambahkanbuttonpadahalamanprodukdishopify/</guid>
+      <description>product-template.liquid
+&amp;lt;button class=&amp;#34;nama kelas&amp;#34;&amp;gt; &amp;lt;a href=&amp;#34;masukan link&amp;#34; class=&amp;#34;btn__text&amp;#34;&amp;gt;Order via Whatsapp&amp;lt;/a&amp;gt;&amp;lt;/button&amp;gt; </description>
+    </item>
+    
+    <item>
+      <title>membuat halaman yang berdiri sendiri tanpa header dan footer di shopify</title>
+      <link>https://octaviyawn.xyz/2021/membuat-halaman-yang-berdiri-sendiri-tanpa-header-dan-footer-di-shopify/</link>
+      <pubDate>Wed, 10 Feb 2021 07:54:21 +0700</pubDate>
+      
+      <guid>https://octaviyawn.xyz/2021/membuat-halaman-yang-berdiri-sendiri-tanpa-header-dan-footer-di-shopify/</guid>
+      <description>add new template page.alternate.liquid
+{% layout none %} {%- if settings.favicon != blank -%} &amp;lt;link rel=&amp;#34;shortcut icon&amp;#34; href=&amp;#34;{{ settings.favicon | img_url: &amp;#39;32x32&amp;#39; }}&amp;#34; type=&amp;#34;image/png&amp;#34;&amp;gt; {%- endif -%} {{ page.content }} di halaman yang dibuat pilih template page.alternate</description>
+    </item>
+    
+  </channel>
+</rss>

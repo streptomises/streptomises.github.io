@@ -55,8 +55,8 @@
   "keywords": "shopify",
   "wordcount":  37 ,
   "url": "https:\/\/octaviyawn.xyz\/2021\/membuat-halaman-yang-berdiri-sendiri-tanpa-header-dan-footer-di-shopify\/",
-  "datePublished": "2021-02-10T07:54:21\x2b07:00",
-  "dateModified": "2021-02-10T07:54:21\x2b07:00",
+  "datePublished": "2021-02-10T07:54:21\u002b07:00",
+  "dateModified": "2021-02-10T07:54:21\u002b07:00",
   
   "publisher": {
     "@type": "Organization",
@@ -85,7 +85,7 @@
         <nav class="navbar">
     <div class="container">
         <div class="navbar-header header-logo">
-        	<a href="https://octaviyawn.xyz">••••• ••</a>
+        	<a href="https://octaviyawn.xyz">zzzzz</a>
         </div>
         <div class="menu navbar-right">
                 
@@ -104,7 +104,7 @@
 <nav class="navbar-mobile" id="nav-mobile" style="display: none">
      <div class="container">
         <div class="navbar-header">
-            <div>  <a href="javascript:void(0);" class="theme-switch"><i class="iconfont icon-sun"></i></a>&nbsp;<a href="https://octaviyawn.xyz">••••• ••</a></div>
+            <div>  <a href="javascript:void(0);" class="theme-switch"><i class="iconfont icon-sun"></i></a>&nbsp;<a href="https://octaviyawn.xyz">zzzzz</a></div>
             <div class="menu-toggle">
                 <span></span><span></span><span></span>
             </div>
@@ -157,11 +157,11 @@
           
 
           <p>add new template <code>page.alternate.liquid</code></p>
-<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-yaml" data-lang="yaml">{% layout none %}
-  {%- if settings.favicon != blank -%}
-    &lt;link rel=<span style="color:#e6db74">&#34;shortcut icon&#34;</span> href=<span style="color:#e6db74">&#34;{{ settings.favicon | img_url: &#39;32x32&#39; }}&#34;</span> type=<span style="color:#e6db74">&#34;image/png&#34;</span><span style="color:#e6db74">&gt;
-</span><span style="color:#e6db74">  {%- endif -%}</span>
-{{ page.content }}
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-yaml" data-lang="yaml">{<span style="color:#ae81ff">% layout none %}</span>
+  {<span style="color:#ae81ff">%- if settings.favicon != blank -%}</span>
+    <span style="color:#ae81ff">&lt;link rel=&#34;shortcut icon&#34; href=&#34;{{ settings.favicon | img_url: &#39;32x32&#39; }}&#34; type=&#34;image/png&#34;&gt;</span>
+  {<span style="color:#ae81ff">%- endif -%}</span>
+{{ <span style="color:#ae81ff">page.content }}</span>
 </code></pre></div><p>di halaman yang dibuat pilih template <code>page.alternate</code></p>
 
     </div>

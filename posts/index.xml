@@ -6,7 +6,27 @@
     <description>Recent content in Posts on octaviyawn</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 04 Mar 2021 23:52:37 +0700</lastBuildDate><atom:link href="https://octaviyawn.xyz/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 25 Mar 2021 03:32:46 +0700</lastBuildDate><atom:link href="https://octaviyawn.xyz/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ukuran flash drive berubah setelah digunakan untuk instal sistem operasi?</title>
+      <link>https://octaviyawn.xyz/2021/ukuranflashdiskberubahsetelahdigunakanuntukinstalsistemoperasi/</link>
+      <pubDate>Thu, 25 Mar 2021 03:32:46 +0700</pubDate>
+      
+      <guid>https://octaviyawn.xyz/2021/ukuranflashdiskberubahsetelahdigunakanuntukinstalsistemoperasi/</guid>
+      <description>diskpart list disk select disk (pilih nomer flash drive berada) clean create partition primary format fs=fat32 quick </description>
+    </item>
+    
+    <item>
+      <title>asus laptop battery health charging pada elementaryos</title>
+      <link>https://octaviyawn.xyz/2021/asuslaptopbatteryhealthchargingpadaelementaryos/</link>
+      <pubDate>Thu, 25 Mar 2021 03:31:56 +0700</pubDate>
+      
+      <guid>https://octaviyawn.xyz/2021/asuslaptopbatteryhealthchargingpadaelementaryos/</guid>
+      <description>buka terminal pada folder battery-manager-linux
+chmod +x limit.sh ./limit.sh 60 sudo nano /etc/crontab masukan
+@reboot root echo 60 &amp;gt; /sys/class/power_supply/BAT0/charge_control_end_threshold lalu simpan</description>
+    </item>
+    
     <item>
       <title>harga coret pada tema brooklyn</title>
       <link>https://octaviyawn.xyz/2021/hargacoretpadatemabrooklyn/</link>

@@ -6,14 +6,38 @@
     <description>Recent content in Posts on octaviyawn</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 25 Mar 2021 03:32:46 +0700</lastBuildDate><atom:link href="https://octaviyawn.xyz/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 18 May 2021 00:47:20 +0700</lastBuildDate><atom:link href="https://octaviyawn.xyz/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>hapus/edit context menu windows</title>
+      <link>https://octaviyawn.xyz/2021/hapuseditcontextmenuwindows/</link>
+      <pubDate>Tue, 18 May 2021 00:47:20 +0700</pubDate>
+      
+      <guid>https://octaviyawn.xyz/2021/hapuseditcontextmenuwindows/</guid>
+      <description>buka regedit cari HKEY_CLASSES_ROOT\Directory\shell</description>
+    </item>
+    
+    <item>
+      <title>ubah compare at price jadi warna merah pada tema brooklyn</title>
+      <link>https://octaviyawn.xyz/2021/ubahcompareatpricejadiwarnamerahpadatemabrooklyn/</link>
+      <pubDate>Tue, 18 May 2021 00:34:45 +0700</pubDate>
+      
+      <guid>https://octaviyawn.xyz/2021/ubahcompareatpricejadiwarnamerahpadatemabrooklyn/</guid>
+      <description>Snippets &amp;gt; product-grid-item.liquid
+ubah
+&amp;lt;span class=&amp;#34;grid-product__price-wrap&amp;#34;&amp;gt; jadi
+&amp;lt;span class=&amp;#34;grid-product__price-wrap {% if product.compare_at_price &amp;gt; product.price %}item_with_compareatprice{% endif %} &amp;#34;&amp;gt; Assets &amp;gt; theme.scss.liquid 
+tambahkan
+.item_with_compareatprice .grid-product__price { color: #900; } </description>
+    </item>
+    
     <item>
       <title>ukuran flash drive berubah setelah digunakan untuk instal sistem operasi?</title>
       <link>https://octaviyawn.xyz/2021/ukuranflashdiskberubahsetelahdigunakanuntukinstalsistemoperasi/</link>
       <pubDate>Thu, 25 Mar 2021 03:32:46 +0700</pubDate>
       
       <guid>https://octaviyawn.xyz/2021/ukuranflashdiskberubahsetelahdigunakanuntukinstalsistemoperasi/</guid>
-      <description>diskpart list disk select disk (pilih nomer flash drive berada) clean create partition primary format fs=fat32 quick </description>
+      <description>cmd/powershell
+diskpart list disk select disk (pilih nomer flash drive berada) clean create partition primary format fs=fat32 quick </description>
     </item>
     
     <item>

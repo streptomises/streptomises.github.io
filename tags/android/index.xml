@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>android on ///// //</title>
+    <link>https://www.octaviyawn.xyz/tags/android/</link>
+    <description>Recent content in android on ///// //</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 04 Mar 2021 23:51:51 +0700</lastBuildDate><atom:link href="https://www.octaviyawn.xyz/tags/android/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>hapus bloatware / aplikasi bawaan android tanpa akses root</title>
+      <link>https://www.octaviyawn.xyz/2021/menghapusbloatwareaplikasibawaanandroid/</link>
+      <pubDate>Thu, 04 Mar 2021 23:51:51 +0700</pubDate>
+      
+      <guid>https://www.octaviyawn.xyz/2021/menghapusbloatwareaplikasibawaanandroid/</guid>
+      <description>install OEM USB drivers install ADB binary install Package Name Viewer
+enable USB debugging buka PowerShell di folder platform-tools
+adb shell pm uninstall -k --user 0 &amp;lt;name of package&amp;gt; </description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>windows on ///// //</title>
+    <link>https://www.octaviyawn.xyz/tags/windows/</link>
+    <description>Recent content in windows on ///// //</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 23 Mar 2022 23:50:12 +0700</lastBuildDate><atom:link href="https://www.octaviyawn.xyz/tags/windows/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>otomatis menampilkan jumlah uang excel</title>
+      <link>https://www.octaviyawn.xyz/2022/terbilang/</link>
+      <pubDate>Wed, 23 Mar 2022 23:50:12 +0700</pubDate>
+      
+      <guid>https://www.octaviyawn.xyz/2022/terbilang/</guid>
+      <description>Add-Ins =terbilang(letaknya)</description>
+    </item>
+    
+    <item>
+      <title>install lagi aplikasi bawaan windows 11 yang terhapus</title>
+      <link>https://www.octaviyawn.xyz/2022/installaplikasibawaanwin11/</link>
+      <pubDate>Wed, 23 Mar 2022 23:43:12 +0700</pubDate>
+      
+      <guid>https://www.octaviyawn.xyz/2022/installaplikasibawaanwin11/</guid>
+      <description>powershell
+Get-AppxPackage Microsoft.SecHealthUI -AllUsers | Reset-AppxPackage </description>
+    </item>
+    
+    <item>
+      <title>cara install hugo di windows 11</title>
+      <link>https://www.octaviyawn.xyz/2022/installhugo/</link>
+      <pubDate>Wed, 23 Mar 2022 23:36:03 +0700</pubDate>
+      
+      <guid>https://www.octaviyawn.xyz/2022/installhugo/</guid>
+      <description>powershell
+Set-ExecutionPolicy RemoteSigned -scope CurrentUser iwr -useb get.scoop.sh | iex scoop install hugo </description>
+    </item>
+    
+    <item>
+      <title>hapus/edit context menu windows</title>
+      <link>https://www.octaviyawn.xyz/2021/hapuseditcontextmenuwindows/</link>
+      <pubDate>Tue, 18 May 2021 00:47:20 +0700</pubDate>
+      
+      <guid>https://www.octaviyawn.xyz/2021/hapuseditcontextmenuwindows/</guid>
+      <description>buka regedit cari HKEY_CLASSES_ROOT\Directory\shell</description>
+    </item>
+    
+    <item>
+      <title>ukuran flash disk berubah setelah digunakan untuk instal sistem operasi?</title>
+      <link>https://www.octaviyawn.xyz/2021/ukuranflashdiskberubahsetelahdigunakanuntukinstalsistemoperasi/</link>
+      <pubDate>Thu, 25 Mar 2021 03:32:46 +0700</pubDate>
+      
+      <guid>https://www.octaviyawn.xyz/2021/ukuranflashdiskberubahsetelahdigunakanuntukinstalsistemoperasi/</guid>
+      <description>cmd/powershell
+diskpart list disk select disk (pilih nomer flash drive berada) clean create partition primary format fs=fat32 quick </description>
+    </item>
+    
+  </channel>
+</rss>

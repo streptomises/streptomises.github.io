@@ -1,0 +1,1 @@
+Simpel visual novel tentang COVID-19 untuk keluarga. Dibikin pake <a href="https://monogatari.io">Monogatari</a>, char oleh <a href="https://liah0227.itch.io/saki">Liah</a>, background oleh <a href="https://www.freepik.com/free-photo/blur-hospital_1135191.htm">mrsiraphol</a>. <a href="https://streptomises.github.io/karyanurisehat">Coba main!</a>

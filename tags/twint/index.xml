@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>twint on ///// //</title>
-    <link>https://www.octaviyawn.xyz/tags/twint/</link>
+    <link>https://streptomises.github.io/tags/twint/</link>
     <description>Recent content in twint on ///// //</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 24 Nov 2020 05:00:26 +0700</lastBuildDate><atom:link href="https://www.octaviyawn.xyz/tags/twint/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 24 Nov 2020 05:00:26 +0700</lastBuildDate><atom:link href="https://streptomises.github.io/tags/twint/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Mengumpulkan Tweet yang Membicarakan LaporCovid-19</title>
-      <link>https://www.octaviyawn.xyz/2020/mengumpulkan-tweet-yang-membicarakan-laporcovid-19/</link>
+      <link>https://streptomises.github.io/2020/mengumpulkan-tweet-yang-membicarakan-laporcovid-19/</link>
       <pubDate>Tue, 24 Nov 2020 05:00:26 +0700</pubDate>
       
-      <guid>https://www.octaviyawn.xyz/2020/mengumpulkan-tweet-yang-membicarakan-laporcovid-19/</guid>
+      <guid>https://streptomises.github.io/2020/mengumpulkan-tweet-yang-membicarakan-laporcovid-19/</guid>
       <description>1. Instal python 2. Instal Twint pip3 install --user --upgrade -e git+https://github.com/twintproject/twint.git@origin/master#egg=twint
 3. Jalankan command Twint twint -s &amp;quot;laporcovid-19&amp;quot; -o nanana.csv --csv
   </description>

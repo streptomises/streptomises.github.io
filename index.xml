@@ -1,19 +1,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>///// // on ///// //</title>
-    <link>https://www.octaviyawn.xyz/</link>
+    <link>https://streptomises.github.io/</link>
     <description>Recent content in ///// // on ///// //</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Wed, 23 Mar 2022 23:50:12 +0700</lastBuildDate>
-    <atom:link href="https://www.octaviyawn.xyz/" rel="self" type="application/rss+xml" />
+    <atom:link href="https://streptomises.github.io/" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Posts</title>
-      <link>https://www.octaviyawn.xyz/posts/</link>
+      <link>https://streptomises.github.io/posts/</link>
       <pubDate>Wed, 23 Mar 2022 23:50:12 +0700</pubDate>
       
-      <guid>https://www.octaviyawn.xyz/posts/</guid>
+      <guid>https://streptomises.github.io/posts/</guid>
       <description></description>
     </item>
     

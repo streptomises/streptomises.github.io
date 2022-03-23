@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>elementaryos on ///// //</title>
-    <link>https://www.octaviyawn.xyz/tags/elementaryos/</link>
+    <link>https://streptomises.github.io/tags/elementaryos/</link>
     <description>Recent content in elementaryos on ///// //</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 25 Mar 2021 03:31:56 +0700</lastBuildDate><atom:link href="https://www.octaviyawn.xyz/tags/elementaryos/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 25 Mar 2021 03:31:56 +0700</lastBuildDate><atom:link href="https://streptomises.github.io/tags/elementaryos/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>asus laptop battery health charging pada elementaryos</title>
-      <link>https://www.octaviyawn.xyz/2021/asuslaptopbatteryhealthchargingpadaelementaryos/</link>
+      <link>https://streptomises.github.io/2021/asuslaptopbatteryhealthchargingpadaelementaryos/</link>
       <pubDate>Thu, 25 Mar 2021 03:31:56 +0700</pubDate>
       
-      <guid>https://www.octaviyawn.xyz/2021/asuslaptopbatteryhealthchargingpadaelementaryos/</guid>
+      <guid>https://streptomises.github.io/2021/asuslaptopbatteryhealthchargingpadaelementaryos/</guid>
       <description>buka terminal pada folder battery-manager-linux
 chmod +x limit.sh ./limit.sh 60 sudo nano /etc/crontab masukan
 @reboot root echo 60 &amp;gt; /sys/class/power_supply/BAT0/charge_control_end_threshold lalu simpan</description>

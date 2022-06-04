@@ -4,7 +4,7 @@
     <url>
       <loc>https://streptomises.github.io/</loc>
       
-      <lastmod>2022-03-23T23:50:12+07:00</lastmod>
+      <lastmod>2022-06-04T22:45:25+07:00</lastmod>
       
       
       <changefreq>monthly</changefreq>
@@ -16,9 +16,9 @@
     </url>
   
     <url>
-      <loc>https://streptomises.github.io/2022/terbilang/</loc>
+      <loc>https://streptomises.github.io/2022/popcatrecyclebin/</loc>
       
-      <lastmod>2022-03-23T23:50:12+07:00</lastmod>
+      <lastmod>2022-06-04T22:45:25+07:00</lastmod>
       
       
       <changefreq>monthly</changefreq>
@@ -32,7 +32,7 @@
     <url>
       <loc>https://streptomises.github.io/posts/</loc>
       
-      <lastmod>2022-03-23T23:50:12+07:00</lastmod>
+      <lastmod>2022-06-04T22:45:25+07:00</lastmod>
       
       
       <changefreq>monthly</changefreq>
@@ -46,7 +46,7 @@
     <url>
       <loc>https://streptomises.github.io/tags/</loc>
       
-      <lastmod>2022-03-23T23:50:12+07:00</lastmod>
+      <lastmod>2022-06-04T22:45:25+07:00</lastmod>
       
       
       <changefreq>monthly</changefreq>
@@ -59,6 +59,20 @@
   
     <url>
       <loc>https://streptomises.github.io/tags/windows/</loc>
+      
+      <lastmod>2022-06-04T22:45:25+07:00</lastmod>
+      
+      
+      <changefreq>monthly</changefreq>
+      
+      
+      <priority>0.5</priority>
+      
+      
+    </url>
+  
+    <url>
+      <loc>https://streptomises.github.io/2022/terbilang/</loc>
       
       <lastmod>2022-03-23T23:50:12+07:00</lastmod>
       

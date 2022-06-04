@@ -6,7 +6,20 @@
     <description>Recent content in windows on ///// //</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 23 Mar 2022 23:50:12 +0700</lastBuildDate><atom:link href="https://streptomises.github.io/tags/windows/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 04 Jun 2022 22:45:25 +0700</lastBuildDate><atom:link href="https://streptomises.github.io/tags/windows/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>p o p c a t  r e c y c l e b i n</title>
+      <link>https://streptomises.github.io/2022/popcatrecyclebin/</link>
+      <pubDate>Sat, 04 Jun 2022 22:45:25 +0700</pubDate>
+      
+      <guid>https://streptomises.github.io/2022/popcatrecyclebin/</guid>
+      <description>popcat icon
+regedit
+Computer\HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\CLSID{645FF040-5081-101B-9F08-00AA002F954E}\DefaultIcon default .ico &amp;gt; ico,0
+empty .ico &amp;gt; ico,0
+full .ico &amp;gt; ico,0</description>
+    </item>
+    
     <item>
       <title>otomatis menampilkan jumlah uang excel</title>
       <link>https://streptomises.github.io/2022/terbilang/</link>

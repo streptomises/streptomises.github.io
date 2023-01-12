@@ -50,7 +50,7 @@ Get-AppxPackage Microsoft.SecHealthUI -AllUsers | Reset-AppxPackage </descriptio
     </item>
     
     <item>
-      <title>cara install hugo di windows 11</title>
+      <title>install hugo di windows 11</title>
       <link>https://streptomises.github.io/2022/installhugo/</link>
       <pubDate>Wed, 23 Mar 2022 23:36:03 +0700</pubDate>
       

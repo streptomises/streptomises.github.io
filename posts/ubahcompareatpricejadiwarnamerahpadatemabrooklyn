@@ -1,0 +1,22 @@
+---
+title: "ubah compare at price jadi warna merah pada tema brooklyn"
+date: 2021-05-18T00:34:45+07:00
+tags: [shopify]
+---
+```Snippets > product-grid-item.liquid``` \
+ubah
+```yaml
+<span class="grid-product__price-wrap">
+```
+jadi
+
+```yaml
+<span class="grid-product__price-wrap   {% if product.compare_at_price > product.price %}item_with_compareatprice{% endif %} ">
+```
+```Assets > theme.scss.liquid ``` \
+tambahkan 
+```yaml
+.item_with_compareatprice .grid-product__price {
+    color: #900;
+}
+```   

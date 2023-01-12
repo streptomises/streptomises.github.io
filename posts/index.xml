@@ -18,15 +18,6 @@ sc config i8042prt start= disabled </description>
     </item>
     
     <item>
-      <title>film bagus di youtube</title>
-      <link>https://streptomises.github.io/2022/filmbagusdiyoutube/</link>
-      <pubDate>Thu, 01 Sep 2022 20:41:43 +0700</pubDate>
-      
-      <guid>https://streptomises.github.io/2022/filmbagusdiyoutube/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>宇宙よりも远い场所</title>
       <link>https://streptomises.github.io/2022/yorimoi/</link>
       <pubDate>Thu, 23 Jun 2022 21:26:29 +0700</pubDate>
@@ -68,7 +59,7 @@ Get-AppxPackage Microsoft.SecHealthUI -AllUsers | Reset-AppxPackage </descriptio
     </item>
     
     <item>
-      <title>cara install hugo di windows 11</title>
+      <title>install hugo di windows 11</title>
       <link>https://streptomises.github.io/2022/installhugo/</link>
       <pubDate>Wed, 23 Mar 2022 23:36:03 +0700</pubDate>
       
@@ -96,18 +87,6 @@ Set-ExecutionPolicy RemoteSigned -scope CurrentUser iwr -useb get.scoop.sh | iex
     </item>
     
     <item>
-      <title>ubah compare at price jadi warna merah pada tema brooklyn</title>
-      <link>https://streptomises.github.io/2021/ubahcompareatpricejadiwarnamerahpadatemabrooklyn/</link>
-      <pubDate>Tue, 18 May 2021 00:34:45 +0700</pubDate>
-      
-      <guid>https://streptomises.github.io/2021/ubahcompareatpricejadiwarnamerahpadatemabrooklyn/</guid>
-      <description>Snippets &amp;gt; product-grid-item.liquid ubah
-&amp;lt;span class=&amp;#34;grid-product__price-wrap&amp;#34;&amp;gt; jadi
-&amp;lt;span class=&amp;#34;grid-product__price-wrap {% if product.compare_at_price &amp;gt; product.price %}item_with_compareatprice{% endif %} &amp;#34;&amp;gt; Assets &amp;gt; theme.scss.liquid  tambahkan
-.item_with_compareatprice .grid-product__price {  color: #900; } </description>
-    </item>
-    
-    <item>
       <title>ukuran flash disk berubah setelah digunakan untuk instal sistem operasi?</title>
       <link>https://streptomises.github.io/2021/ukuranflashdiskberubahsetelahdigunakanuntukinstalsistemoperasi/</link>
       <pubDate>Thu, 25 Mar 2021 03:32:46 +0700</pubDate>
@@ -129,11 +108,11 @@ chmod +x limit.sh ./limit.sh 60 sudo nano /etc/crontab masukan
     </item>
     
     <item>
-      <title>harga coret pada tema brooklyn</title>
-      <link>https://streptomises.github.io/2021/hargacoretpadatemabrooklyn/</link>
+      <title>harga coret pada brooklyn</title>
+      <link>https://streptomises.github.io/2021/hargacoretpadabrooklyn/</link>
       <pubDate>Thu, 04 Mar 2021 23:52:37 +0700</pubDate>
       
-      <guid>https://streptomises.github.io/2021/hargacoretpadatemabrooklyn/</guid>
+      <guid>https://streptomises.github.io/2021/hargacoretpadabrooklyn/</guid>
       <description>replace product-grid-item.liquid
 &amp;lt;!-- /snippets/product-grid-item.liquid --&amp;gt;  {% unless grid_item_width %}  {% assign grid_item_width = &amp;#39;large--one-third medium--one-half&amp;#39; %} {% endunless %}  {% unless width %}  {%- assign width = 310 -%} {% endunless %} {% unless height %}  {%- assign height = 415 -%} {% endunless %}  {% assign on_sale = false %} {% if product.compare_at_price &amp;gt; product.price %}  {% assign on_sale = true %} {% endif %}  {% assign sold_out = true %} {% if product.</description>
     </item>
@@ -157,36 +136,6 @@ adb shell pm uninstall -k --user 0 &amp;lt;name of package&amp;gt; </description
       <guid>https://streptomises.github.io/2021/pantaubanjirdipekalonganmelaluicctv/</guid>
       <description>Pake Chrome? install Play HLS M3u8
  Matahari Stasiun Alun Alun Ponolawen Terminal Timur Terminal Barat Terminal Utara Posis Timur Posis Utara Posis Barat Dharma Bakti Timur Dharma Bakti Barat Dharma Bakti Selatan Ahmad Yani PTZ Muhammadiyah Timur Muhammadiyah Barat Muhammadiyah Selatan Muhammadiyah Utara Pusri TImur Pusri Barat Pusri Selatan Tirto Barat Tirto Timur Tirto Selatan Grogolan PTZ Grogolan Barat Grogolan Utara Ponolawen Timur Ponolawen Utara Ponolawen Selatan Gambaran PTZ Polsek Timur PTZ THR Dr Cipto Sorogenen Exit Tol Setono Ampera IR Sutami Exit Tol Bojong  </description>
-    </item>
-    
-    <item>
-      <title>mengubah warna salah satu menu di shopify</title>
-      <link>https://streptomises.github.io/2021/mengubahwarnasalahsatumenudishopify/</link>
-      <pubDate>Fri, 12 Feb 2021 10:39:09 +0700</pubDate>
-      
-      <guid>https://streptomises.github.io/2021/mengubahwarnasalahsatumenudishopify/</guid>
-      <description>theme.scss.liquid
-.site-header a[href=&amp;#34;/collections/namamenuyangmaudiubah&amp;#34;] { color: warna; } </description>
-    </item>
-    
-    <item>
-      <title>menambahkan button pada halaman produk di shopify</title>
-      <link>https://streptomises.github.io/2021/menambahkanbuttonpadahalamanprodukdishopify/</link>
-      <pubDate>Fri, 12 Feb 2021 10:38:27 +0700</pubDate>
-      
-      <guid>https://streptomises.github.io/2021/menambahkanbuttonpadahalamanprodukdishopify/</guid>
-      <description>product-template.liquid
-&amp;lt;button class=&amp;#34;nama kelas&amp;#34;&amp;gt; &amp;lt;a href=&amp;#34;masukan link&amp;#34; &amp;gt;Order via Whatsapp&amp;lt;/a&amp;gt;&amp;lt;/button&amp;gt; </description>
-    </item>
-    
-    <item>
-      <title>membuat halaman yang berdiri sendiri tanpa header dan footer di shopify</title>
-      <link>https://streptomises.github.io/2021/membuat-halaman-yang-berdiri-sendiri-tanpa-header-dan-footer-di-shopify/</link>
-      <pubDate>Wed, 10 Feb 2021 07:54:21 +0700</pubDate>
-      
-      <guid>https://streptomises.github.io/2021/membuat-halaman-yang-berdiri-sendiri-tanpa-header-dan-footer-di-shopify/</guid>
-      <description>add new template page.alternate.liquid
-{% layout none %}  {%- if settings.favicon != blank -%}  &amp;lt;link rel=&amp;#34;shortcut icon&amp;#34; href=&amp;#34;{{ settings.favicon | img_url: &amp;#39;32x32&amp;#39; }}&amp;#34; type=&amp;#34;image/png&amp;#34;&amp;gt;  {%- endif -%} {{ page.content }} di halaman yang dibuat pilih template page.alternate</description>
     </item>
     
     <item>

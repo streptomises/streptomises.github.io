@@ -1,0 +1,12 @@
+---
+title: "menambahkan button pada halaman produk di shopify"
+date: 2021-02-12T10:38:27+07:00
+hidden: true
+tags: [shopify]
+featured_image: /images/buttonproductshopify.PNG
+---
+```product-template.liquid```
+```yaml
+<button class="nama kelas">
+<a href="masukan link" >Order via Whatsapp</a></button>
+```

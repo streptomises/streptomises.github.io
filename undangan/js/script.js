@@ -96,7 +96,7 @@ var styles2 = [
 
 console.log('\n\n%c SAVE THE DATE: 28th Jan, 2023!', styles);
 
-console.log('%cYour presence is requested!%c\n\nRegards: Ida & Teddy', styles1, styles2);
+console.log('%cYour presence is requested!%c\n\nRegards: Srie & Indah', styles1, styles2);
 
 console.log(
     `%cPerfect\n\n`,

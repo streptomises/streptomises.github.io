@@ -26,7 +26,7 @@ $(document).on('scroll', function(){
 });
 
 // set the date we're counting down to
-var target_date = new Date("Dec 30, 2021").getTime();
+var target_date = new Date("Jan 28, 2023").getTime();
 
 // variables for time units
 var days, hours, minutes, seconds;
@@ -94,7 +94,7 @@ var styles2 = [
     , 'font-size: 32px'
 ].join(';');
 
-console.log('\n\n%c SAVE THE DATE: 29th Oct, 2021!', styles);
+console.log('\n\n%c SAVE THE DATE: 28th Jan, 2023!', styles);
 
 console.log('%cYour presence is requested!%c\n\nRegards: Ida & Teddy', styles1, styles2);
 

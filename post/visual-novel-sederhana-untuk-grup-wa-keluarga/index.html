@@ -1,0 +1,414 @@
+<!DOCTYPE html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html
+  class="not-ready text-sm lg:text-base"
+  style="--bg: #faf6f1"
+  lang="en"
+>
+  <head>
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta
+    name="viewport"
+    content="width=device-width, initial-scale=1, shrink-to-fit=no"
+  />
+
+  
+  <title>Visual Novel Tentang COVID-19 Untuk Grup WhatsApp Keluarga - ///// //</title>
+
+  
+  <meta name="theme-color" />
+
+  
+  
+  
+  <meta name="description" content="Seperti kebanyakan cerita dari netizen, grup WhatsApp keluarga menjadi tempat lalu lalang berbagai Hoax, karenanya saya terpikirkan untuk membuat Visual Novel.
+Visual Novelnya menceritakan tentang Sari yang menanyakan pertanyaan seputar COVID-19 lalu Pemain (Keluarga di grup WA) memilih jawaban yang kemudian akan dijelaskan oleh Sari mengapa jawaban itu benar/salah, untuk materi seputar COVID-19 saya mengambil dari media di Indonesia maupun WHO.
+Visual Novel ini dibuat menggunakan Monogatari. Begini langkah-langkah saya dalam membuatnya," />
+  <meta name="author" content="@octaviyawn" />
+  
+
+  
+  
+  
+  
+  
+  
+  <link rel="preload stylesheet" as="style" href="https://streptomises.github.io/main.min.css" />
+
+  
+  <script
+    defer
+    src="https://streptomises.github.io/highlight.min.js"
+    onload="hljs.initHighlightingOnLoad();"
+  ></script>
+  
+
+  
+   
+  <link rel="preload" as="image" href="https://streptomises.github.io/theme.png" />
+
+  
+  
+  
+  <link rel="preload" as="image" href="https://www.gravatar.com/avatar/8a36cd0dcaf747467311c4e3d281d46f?s=160&amp;d=identicon" />
+  
+  
+
+  
+  <link rel="preload" as="image" href="https://streptomises.github.io/instagram.svg" />
+  
+  <link rel="preload" as="image" href="https://streptomises.github.io/rss.svg" />
+  
+
+  
+  <link rel="icon" href="https://streptomises.github.io/favicon.ico" />
+  <link rel="apple-touch-icon" href="https://streptomises.github.io/apple-touch-icon.png" />
+
+  
+  <meta name="generator" content="Hugo 0.111.3">
+
+  
+  
+
+  
+  
+  
+  
+  
+  
+  
+  <meta property="og:title" content="Visual Novel Tentang COVID-19 Untuk Grup WhatsApp Keluarga" />
+<meta property="og:description" content="Seperti kebanyakan cerita dari netizen, grup WhatsApp keluarga menjadi tempat lalu lalang berbagai Hoax, karenanya saya terpikirkan untuk membuat Visual Novel.
+Visual Novelnya menceritakan tentang Sari yang menanyakan pertanyaan seputar COVID-19 lalu Pemain (Keluarga di grup WA) memilih jawaban yang kemudian akan dijelaskan oleh Sari mengapa jawaban itu benar/salah, untuk materi seputar COVID-19 saya mengambil dari media di Indonesia maupun WHO.
+Visual Novel ini dibuat menggunakan Monogatari. Begini langkah-langkah saya dalam membuatnya," />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://streptomises.github.io/post/visual-novel-sederhana-untuk-grup-wa-keluarga/" /><meta property="article:section" content="post" />
+<meta property="article:published_time" content="2020-04-21T04:30:26+07:00" />
+<meta property="article:modified_time" content="2020-04-21T04:30:26+07:00" />
+
+  
+  <meta itemprop="name" content="Visual Novel Tentang COVID-19 Untuk Grup WhatsApp Keluarga">
+<meta itemprop="description" content="Seperti kebanyakan cerita dari netizen, grup WhatsApp keluarga menjadi tempat lalu lalang berbagai Hoax, karenanya saya terpikirkan untuk membuat Visual Novel.
+Visual Novelnya menceritakan tentang Sari yang menanyakan pertanyaan seputar COVID-19 lalu Pemain (Keluarga di grup WA) memilih jawaban yang kemudian akan dijelaskan oleh Sari mengapa jawaban itu benar/salah, untuk materi seputar COVID-19 saya mengambil dari media di Indonesia maupun WHO.
+Visual Novel ini dibuat menggunakan Monogatari. Begini langkah-langkah saya dalam membuatnya,"><meta itemprop="datePublished" content="2020-04-21T04:30:26+07:00" />
+<meta itemprop="dateModified" content="2020-04-21T04:30:26+07:00" />
+<meta itemprop="wordCount" content="456">
+<meta itemprop="keywords" content="visual novel,covid-19," />
+  
+  <meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="Visual Novel Tentang COVID-19 Untuk Grup WhatsApp Keluarga"/>
+<meta name="twitter:description" content="Seperti kebanyakan cerita dari netizen, grup WhatsApp keluarga menjadi tempat lalu lalang berbagai Hoax, karenanya saya terpikirkan untuk membuat Visual Novel.
+Visual Novelnya menceritakan tentang Sari yang menanyakan pertanyaan seputar COVID-19 lalu Pemain (Keluarga di grup WA) memilih jawaban yang kemudian akan dijelaskan oleh Sari mengapa jawaban itu benar/salah, untuk materi seputar COVID-19 saya mengambil dari media di Indonesia maupun WHO.
+Visual Novel ini dibuat menggunakan Monogatari. Begini langkah-langkah saya dalam membuatnya,"/>
+
+  
+  
+</head>
+
+  <body class="text-black duration-200 ease-out dark:text-white">
+    <header class="mx-auto flex h-[5rem] max-w-3xl px-8 lg:justify-center">
+  <div class="relative z-50 mr-auto flex items-center">
+    <a
+      class="-translate-x-[1px] -translate-y-0.5 text-3xl font-bold"
+      href="https://streptomises.github.io/"
+      >///// //</a
+    >
+    <div
+      class="btn-dark text-[0] ml-6 h-6 w-6 shrink-0 cursor-pointer [background:url(./theme.png)_left_center/_auto_theme('spacing.6')_no-repeat] [transition:_background-position_0.4s_steps(5)] dark:[background-position:right]"
+      role="button"
+      aria-label="Dark"
+    ></div>
+  </div>
+
+  <div
+    class="btn-menu relative z-50 -mr-8 flex h-[5rem] w-[5rem] shrink-0 cursor-pointer flex-col items-center justify-center gap-2.5 lg:hidden"
+    role="button"
+    aria-label="Menu"
+  ></div>
+
+  
+  <script>
+    
+    const htmlClass = document.documentElement.classList;
+    setTimeout(() => {
+      htmlClass.remove('not-ready');
+    }, 10);
+
+    
+    const btnMenu = document.querySelector('.btn-menu');
+    btnMenu.addEventListener('click', () => {
+      htmlClass.toggle('open');
+    });
+
+    
+    const metaTheme = document.querySelector('meta[name="theme-color"]');
+    const lightBg = `"#faf6f1"`.replace(/"/g, '');
+    const setDark = (isDark) => {
+      metaTheme.setAttribute('content', isDark ? '#000' : lightBg);
+      htmlClass[isDark ? 'add' : 'remove']('dark');
+      localStorage.setItem('dark', isDark);
+    };
+
+    
+    const darkScheme = window.matchMedia('(prefers-color-scheme: dark)');
+    if (htmlClass.contains('dark')) {
+      setDark(true);
+    } else {
+      const darkVal = localStorage.getItem('dark');
+      setDark(darkVal ? darkVal === 'true' : darkScheme.matches);
+    }
+
+    
+    darkScheme.addEventListener('change', (event) => {
+      setDark(event.matches);
+    });
+
+    
+    const btnDark = document.querySelector('.btn-dark');
+    btnDark.addEventListener('click', () => {
+      setDark(localStorage.getItem('dark') !== 'true');
+    });
+  </script>
+
+  <div
+    class="nav-wrapper fixed inset-x-0 top-full z-40 flex h-full select-none flex-col justify-center pb-16 duration-200 dark:bg-black lg:static lg:h-auto lg:flex-row lg:!bg-transparent lg:pb-0 lg:transition-none"
+  >
+    
+    
+    <nav class="lg:ml-12 lg:flex lg:flex-row lg:items-center lg:space-x-6">
+      
+      <a
+        class="block text-center text-2xl leading-[5rem] lg:text-base lg:font-normal"
+        href="/about/"
+        >About</a
+      >
+      
+    </nav>
+    
+
+    
+    <nav
+      class="mt-12 flex justify-center space-x-10 dark:invert lg:mt-0 lg:ml-12 lg:items-center lg:space-x-6"
+    >
+      
+      <a
+        class="h-8 w-8 text-[0] [background:var(--url)_center_center/cover_no-repeat] lg:h-6 lg:w-6"
+        style="--url: url(./instagram.svg)"
+        href="https://instagram.com/octaviyawn"
+        target="_blank"
+        rel="me"
+      >
+        instagram
+      </a>
+      
+      <a
+        class="h-8 w-8 text-[0] [background:var(--url)_center_center/cover_no-repeat] lg:h-6 lg:w-6"
+        style="--url: url(./rss.svg)"
+        href="https://streptomises.github.io/index.xml"
+        target="_blank"
+        rel="alternate"
+      >
+        rss
+      </a>
+      
+    </nav>
+    
+  </div>
+</header>
+
+
+    <main
+      class="prose prose-neutral relative mx-auto min-h-[calc(100%-10rem)] max-w-3xl px-8 pt-16 pb-24 dark:prose-invert"
+    >
+      
+
+<article>
+  <header class="mb-20">
+    <h1 class="!my-0 pb-2.5">Visual Novel Tentang COVID-19 Untuk Grup WhatsApp Keluarga</h1>
+
+    
+    <div class="text-sm opacity-60">
+      
+      <time>Apr 21, 2020</time>
+      
+      
+      
+      
+    </div>
+    
+  </header>
+
+  <section><p>Seperti kebanyakan cerita dari netizen, grup WhatsApp keluarga menjadi tempat lalu lalang berbagai Hoax, karenanya saya terpikirkan untuk membuat <a href="https://en.wikipedia.org/wiki/Visual_novel">Visual Novel</a>.</p>
+<p>Visual Novelnya menceritakan tentang Sari yang menanyakan pertanyaan seputar COVID-19 lalu Pemain (Keluarga di grup WA) memilih jawaban yang kemudian akan dijelaskan oleh Sari mengapa jawaban itu benar/salah, untuk materi seputar COVID-19 saya mengambil dari media di Indonesia maupun <a href="https://www.who.int/indonesia/news/novel-coronavirus/infographics">WHO</a>.</p>
+<p>Visual Novel ini dibuat menggunakan <a href="https://monogatari.io/">Monogatari</a>. Begini langkah-langkah saya dalam membuatnya,</p>
+<h4 id="1-menyiapkan-bahannya-dulu">1. Menyiapkan bahannya dulu</h4>
+<p>Selain <a href="https://monogatari.io/">Monogatari</a>, untuk menjalankannya saya menggunakan <a href="https://chrome.google.com/webstore/detail/web-server-for-chrome/ofhbbkphhbklhfoeikjpcbhemlocgigb">Web Server for Chrome</a>. Code editor menggunakan <a href="https://atom.io/">Atom</a>. Karakter Sari dibuat oleh <a href="https://liah0227.itch.io/saki">Liah</a>, latar belakangnya dibuat oleh <a href="https://www.freepik.com/free-photo/blur-hospital_1135191.htm">mrsiraphol</a>.</p>
+<h4 id="2-bikin-cerita">2. Bikin Cerita</h4>
+<p>Sebelum dituangkan ke Atom, saya membuat cerita dahulu menggunakan <a href="https://docs.google.com/">Google Docs</a>.</p>
+<h4 id="3-mulai-bikin">3. Mulai Bikin</h4>
+<p>Karena saya ingin Visual Novelnya langsung main tanpa melalui Menu dahulu maka pada <code>js/options.js</code>.</p>
+<pre tabindex="0"><code>&#34;ShowMenu&#34;: false,
+</code></pre><p>Membuat naskah di <code>js/script.js</code>.</p>
+<pre tabindex="0"><code>//untuk memunculkan pesan
+let messages = {
+	&#34;Infocorona&#34;:{
+		&#34;Title&#34;: &#34;Okay sudah dulu ya&#34;,
+		&#34;Subtitle&#34;: &#34;Untuk tambahan info lain bisa dicek dibawah ini&#34;,
+		&#34;Message&#34;: `
+			&lt;p&gt;Berita di Pekalongan :&lt;a href=&#39;https://www.google.com/search?q=corona+pekalongan&amp;source=lnms&amp;tbm=nws&#39;  target=&#39;_blank&#39;&gt; Klik Disini&lt;/a&gt;&lt;/p&gt;
+			&lt;p&gt;Info COVID-19 Kab Pekalongan :&lt;a href=&#39;http://corona.pekalongankab.go.id/&#39;  target=&#39;_blank&#39;&gt; Klik Disini&lt;/a&gt;&lt;/p&gt;
+			&lt;p&gt;Info COVID-19 Kota Pekalongan :&lt;a href=&#39;https://corona.pekalongankota.go.id/&#39;  target=&#39;_blank&#39;&gt; Klik Disini&lt;/a&gt;&lt;/p&gt;
+			&lt;p&gt;Info COVID-19 Jateng : &lt;a href=&#39;https://corona.jatengprov.go.id/&#39; target=&#39;_blank&#39;&gt;Klik DIsini&lt;/a&gt;&lt;/p&gt;
+			&lt;p&gt;Info COVID-19 Dunia :&lt;a href=&#39;https://www.worldometers.info/coronavirus/&#39;  target=&#39;_blank&#39;&gt; Klik Disini&lt;/a&gt;&lt;/p&gt;
+			&lt;p&gt;*Nyari info tentang COVID-19 itu baik, tapi jangan jadi stres ya nanti bikin imun turun&lt;/p&gt;`
+	}};
+</code></pre><pre tabindex="0"><code>//menetapkan latar belakang
+const scenes = {
+	&#34;Rs&#34;: &#34;rs.jpeg&#34;,};
+
+//menetapkan karakter
+const characters = {
+	&#34;e&#34;:{
+		&#34;Name&#34;: &#34;Sari&#34;,
+		&#34;Color&#34;: &#34;#00bfff&#34;,
+		&#34;Directory&#34;: &#34;Sari&#34;,
+		&#34;Images&#34;:{
+			&#34;Normal&#34;: &#34;normal.png&#34;,
+			&#34;Happy&#34;: &#34;happy.png&#34;,
+			&#34;Angry&#34;: &#34;angry.png&#34;,
+			&#34;Curious&#34;: &#34;curious.png&#34;,
+			&#34;Surprised&#34;: &#34;surprised.png&#34;,
+			&#34;Worried&#34;: &#34;worried.png&#34;}
+	}};
+</code></pre><p>Berikut salah satu naskah pertanyaan dan jawaban.</p>
+<pre tabindex="0"><code>&#34;Udara&#34;: [
+  &#34;show e Normal with fadeIn&#34;,
+  &#34;e Tetap pake masker kalau mau keluar rumah ya&#34;,
+  &#34;e Menurut The Guardian, negara yang mewajibkan penggunakan masker sejak awal menunjukan tingkat kematian yang lebih rendah lho&#34;,
+  {&#34;Choice&#34;:{
+    &#34;Text&#34;:	&#34;Menurut anda apakah COVID-19 menyebar melalui udara?&#34;,
+    &#34;Iyaudara&#34;:{
+      &#34;Text&#34;: &#34;Iya  &#34;,
+      &#34;Do&#34;: &#34;jump Iyaudara&#34;
+    },
+    &#34;Tidakudara&#34;:{
+      &#34;Text&#34;: &#34;Tidak&#34;,
+      &#34;Do&#34;: &#34;jump Tidakudara&#34;
+    },
+  }}
+],
+
+&#34;Iyaudara&#34;: [
+  &#34;show e Worried with fadeIn&#34;,
+  &#34;e Emm emang sih.. tapi..&#34;,
+  &#34;e Penularan SARS-CoV-2 melalui udara hanya terjadi dalam kondisi tertentu&#34;,
+  &#34;e di laboratorium atau fasilitas pelayanan kesehatan khusus&#34;,
+  &#34;e Misalnya ruang isolasi, unit perawatan intensif/kritis, dan lain lain&#34;,
+  &#34;e Ketika petugas kesehatan melakukan prosedur yang menghasilkan aerosol pada pasien COVID-19&#34;,
+  &#34;jump Rokok&#34;,
+],
+
+&#34;Tidakudara&#34;: [
+  &#34;show e Normal with fadeIn&#34;,
+  &#34;e Yep dalam situasi normal coronavirus baru ini tidak menyebar melalui udara&#34;,
+  &#34;e Virus ini menyebar melalui percikan dan kontak jarak dekat&#34;,
+  &#34;e Jika seseorang menyentuh mulut, hidung dan mata mereka dengan tangan yang terkontaminasi maka mereka dapat terinfeksi virus ini&#34;,
+  &#34;jump Rokok&#34;,
+],
+</code></pre><h4 id="4-periksa">4. Periksa</h4>
+<p>Pada langkah ini saya menjalankan Visual Novelnya di Browser melalui Web Server for Chrome untuk melihat ada kesalahan atau tidak. Yang mau nyoba <a href="http://streptomises.github.io/karyanurisehat">bisa dimainkan disini.</a></p>
+</section>
+
+  
+  
+  <footer class="mt-12 flex flex-wrap">
+     
+    <a
+      class="mr-1.5 mb-1.5 rounded-lg bg-black/[3%] px-5 py-2 no-underline dark:bg-white/[8%]"
+      href="https://streptomises.github.io/tags/visual-novel"
+      >visual novel</a
+    >
+     
+    <a
+      class="mr-1.5 mb-1.5 rounded-lg bg-black/[3%] px-5 py-2 no-underline dark:bg-white/[8%]"
+      href="https://streptomises.github.io/tags/covid-19"
+      >covid-19</a
+    >
+    
+  </footer>
+  
+
+  
+  
+  
+  <nav class="mt-24 flex rounded-lg bg-black/[3%] text-lg dark:bg-white/[8%]">
+    
+    <a
+      class="flex w-1/2 items-center rounded-l-md p-6 pr-3 no-underline hover:bg-black/[2%] dark:hover:bg-white/[3%]"
+      href="https://streptomises.github.io/post/mengumpulkan-tweet-yang-membicarakan-laporcovid-19/"
+      ><span class="mr-1.5">←</span><span>Mengumpulkan Tweet yang Membicarakan LaporCovid-19</span></a
+    >
+    
+    
+  </nav>
+  
+
+  
+  
+
+  
+  
+</article>
+
+
+    </main>
+
+    <footer
+  class="opaco mx-auto flex h-[5rem] max-w-3xl items-center px-8 text-[0.9em] opacity-60"
+>
+  <div class="mr-auto">
+    &copy; 2023
+    <a class="link" href="https://streptomises.github.io"> Octaviyawn</a>
+  </div>
+</footer>
+
+  </body>
+</html>

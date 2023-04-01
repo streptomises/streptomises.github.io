@@ -1,478 +1,104 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
-    <url>
-      <loc>https://streptomises.github.io/2022/disablekeyboard/</loc>
-      
-      <lastmod>2022-10-14T21:04:12+07:00</lastmod>
-      
-      
-      <changefreq>monthly</changefreq>
-      
-      
-      <priority>0.5</priority>
-      
-      
-    </url>
-  
-    <url>
-      <loc>https://streptomises.github.io/</loc>
-      
-      <lastmod>2022-10-14T21:04:12+07:00</lastmod>
-      
-      
-      <changefreq>monthly</changefreq>
-      
-      
-      <priority>0.5</priority>
-      
-      
-    </url>
-  
-    <url>
-      <loc>https://streptomises.github.io/posts/</loc>
-      
-      <lastmod>2022-10-14T21:04:12+07:00</lastmod>
-      
-      
-      <changefreq>monthly</changefreq>
-      
-      
-      <priority>0.5</priority>
-      
-      
-    </url>
-  
-    <url>
-      <loc>https://streptomises.github.io/tags/</loc>
-      
-      <lastmod>2022-10-14T21:04:12+07:00</lastmod>
-      
-      
-      <changefreq>monthly</changefreq>
-      
-      
-      <priority>0.5</priority>
-      
-      
-    </url>
-  
-    <url>
-      <loc>https://streptomises.github.io/tags/windows/</loc>
-      
-      <lastmod>2022-10-14T21:04:12+07:00</lastmod>
-      
-      
-      <changefreq>monthly</changefreq>
-      
-      
-      <priority>0.5</priority>
-      
-      
-    </url>
-  
-    <url>
-      <loc>https://streptomises.github.io/tags/anime/</loc>
-      
-      <lastmod>2022-06-23T21:26:29+07:00</lastmod>
-      
-      
-      <changefreq>monthly</changefreq>
-      
-      
-      <priority>0.5</priority>
-      
-      
-    </url>
-  
-    <url>
-      <loc>https://streptomises.github.io/2022/yorimoi/</loc>
-      
-      <lastmod>2022-06-23T21:26:29+07:00</lastmod>
-      
-      
-      <changefreq>monthly</changefreq>
-      
-      
-      <priority>0.5</priority>
-      
-      
-    </url>
-  
-    <url>
-      <loc>https://streptomises.github.io/2022/popcatrecyclebin/</loc>
-      
-      <lastmod>2022-06-04T22:45:25+07:00</lastmod>
-      
-      
-      <changefreq>monthly</changefreq>
-      
-      
-      <priority>0.5</priority>
-      
-      
-    </url>
-  
-    <url>
-      <loc>https://streptomises.github.io/2022/terbilang/</loc>
-      
-      <lastmod>2022-03-23T23:50:12+07:00</lastmod>
-      
-      
-      <changefreq>monthly</changefreq>
-      
-      
-      <priority>0.5</priority>
-      
-      
-    </url>
-  
-    <url>
-      <loc>https://streptomises.github.io/2022/installaplikasibawaanwin11/</loc>
-      
-      <lastmod>2022-03-23T23:43:12+07:00</lastmod>
-      
-      
-      <changefreq>monthly</changefreq>
-      
-      
-      <priority>0.5</priority>
-      
-      
-    </url>
-  
-    <url>
-      <loc>https://streptomises.github.io/2022/installhugo/</loc>
-      
-      <lastmod>2022-03-23T23:36:03+07:00</lastmod>
-      
-      
-      <changefreq>monthly</changefreq>
-      
-      
-      <priority>0.5</priority>
-      
-      
-    </url>
-  
-    <url>
-      <loc>https://streptomises.github.io/2021/bikinundanganonline/</loc>
-      
-      <lastmod>2021-11-17T22:15:05+07:00</lastmod>
-      
-      
-      <changefreq>monthly</changefreq>
-      
-      
-      <priority>0.5</priority>
-      
-      
-    </url>
-  
-    <url>
-      <loc>https://streptomises.github.io/tags/undangan/</loc>
-      
-      <lastmod>2021-11-17T22:15:05+07:00</lastmod>
-      
-      
-      <changefreq>monthly</changefreq>
-      
-      
-      <priority>0.5</priority>
-      
-      
-    </url>
-  
-    <url>
-      <loc>https://streptomises.github.io/tags/web/</loc>
-      
-      <lastmod>2021-11-17T22:15:05+07:00</lastmod>
-      
-      
-      <changefreq>monthly</changefreq>
-      
-      
-      <priority>0.5</priority>
-      
-      
-    </url>
-  
-    <url>
-      <loc>https://streptomises.github.io/2021/hapuseditcontextmenuwindows/</loc>
-      
-      <lastmod>2021-05-18T00:47:20+07:00</lastmod>
-      
-      
-      <changefreq>monthly</changefreq>
-      
-      
-      <priority>0.5</priority>
-      
-      
-    </url>
-  
-    <url>
-      <loc>https://streptomises.github.io/2021/ukuranflashdiskberubahsetelahdigunakanuntukinstalsistemoperasi/</loc>
-      
-      <lastmod>2021-03-25T03:32:46+07:00</lastmod>
-      
-      
-      <changefreq>monthly</changefreq>
-      
-      
-      <priority>0.5</priority>
-      
-      
-    </url>
-  
-    <url>
-      <loc>https://streptomises.github.io/2021/asuslaptopbatteryhealthchargingpadaelementaryos/</loc>
-      
-      <lastmod>2021-03-25T03:31:56+07:00</lastmod>
-      
-      
-      <changefreq>monthly</changefreq>
-      
-      
-      <priority>0.5</priority>
-      
-      
-    </url>
-  
-    <url>
-      <loc>https://streptomises.github.io/tags/elementaryos/</loc>
-      
-      <lastmod>2021-03-25T03:31:56+07:00</lastmod>
-      
-      
-      <changefreq>monthly</changefreq>
-      
-      
-      <priority>0.5</priority>
-      
-      
-    </url>
-  
-    <url>
-      <loc>https://streptomises.github.io/2021/hargacoretpadabrooklyn/</loc>
-      
-      <lastmod>2021-03-04T23:52:37+07:00</lastmod>
-      
-      
-      <changefreq>monthly</changefreq>
-      
-      
-      <priority>0.5</priority>
-      
-      
-    </url>
-  
-    <url>
-      <loc>https://streptomises.github.io/tags/shopify/</loc>
-      
-      <lastmod>2021-03-04T23:52:37+07:00</lastmod>
-      
-      
-      <changefreq>monthly</changefreq>
-      
-      
-      <priority>0.5</priority>
-      
-      
-    </url>
-  
-    <url>
-      <loc>https://streptomises.github.io/tags/android/</loc>
-      
-      <lastmod>2021-03-04T23:51:51+07:00</lastmod>
-      
-      
-      <changefreq>monthly</changefreq>
-      
-      
-      <priority>0.5</priority>
-      
-      
-    </url>
-  
-    <url>
-      <loc>https://streptomises.github.io/2021/menghapusbloatwareaplikasibawaanandroid/</loc>
-      
-      <lastmod>2021-03-04T23:51:51+07:00</lastmod>
-      
-      
-      <changefreq>monthly</changefreq>
-      
-      
-      <priority>0.5</priority>
-      
-      
-    </url>
-  
-    <url>
-      <loc>https://streptomises.github.io/tags/irl/</loc>
-      
-      <lastmod>2021-02-22T17:35:02+07:00</lastmod>
-      
-      
-      <changefreq>monthly</changefreq>
-      
-      
-      <priority>0.5</priority>
-      
-      
-    </url>
-  
-    <url>
-      <loc>https://streptomises.github.io/2021/pantaubanjirdipekalonganmelaluicctv/</loc>
-      
-      <lastmod>2021-02-22T17:35:02+07:00</lastmod>
-      
-      
-      <changefreq>monthly</changefreq>
-      
-      
-      <priority>0.5</priority>
-      
-      
-    </url>
-  
-    <url>
-      <loc>https://streptomises.github.io/2021/bikin-daftar-link-buat-ditaruh-di-instagram/</loc>
-      
-      <lastmod>2021-02-08T21:55:49+07:00</lastmod>
-      
-      
-      <changefreq>monthly</changefreq>
-      
-      
-      <priority>0.5</priority>
-      
-      
-    </url>
-  
-    <url>
-      <loc>https://streptomises.github.io/2020/bingung-mau-nonton-anime-apa/</loc>
-      
-      <lastmod>2020-12-15T13:31:48+07:00</lastmod>
-      
-      
-      <changefreq>monthly</changefreq>
-      
-      
-      <priority>0.5</priority>
-      
-      
-    </url>
-  
-    <url>
-      <loc>https://streptomises.github.io/tags/covid-19/</loc>
-      
-      <lastmod>2020-11-24T05:00:26+07:00</lastmod>
-      
-      
-      <changefreq>monthly</changefreq>
-      
-      
-      <priority>0.5</priority>
-      
-      
-    </url>
-  
-    <url>
-      <loc>https://streptomises.github.io/2020/mengumpulkan-tweet-yang-membicarakan-laporcovid-19/</loc>
-      
-      <lastmod>2020-11-24T05:00:26+07:00</lastmod>
-      
-      
-      <changefreq>monthly</changefreq>
-      
-      
-      <priority>0.5</priority>
-      
-      
-    </url>
-  
-    <url>
-      <loc>https://streptomises.github.io/tags/python/</loc>
-      
-      <lastmod>2020-11-24T05:00:26+07:00</lastmod>
-      
-      
-      <changefreq>monthly</changefreq>
-      
-      
-      <priority>0.5</priority>
-      
-      
-    </url>
-  
-    <url>
-      <loc>https://streptomises.github.io/tags/twint/</loc>
-      
-      <lastmod>2020-11-24T05:00:26+07:00</lastmod>
-      
-      
-      <changefreq>monthly</changefreq>
-      
-      
-      <priority>0.5</priority>
-      
-      
-    </url>
-  
-    <url>
-      <loc>https://streptomises.github.io/2020/datacovid19/</loc>
-      
-      <lastmod>2020-08-08T01:16:31+07:00</lastmod>
-      
-      
-      <changefreq>monthly</changefreq>
-      
-      
-      <priority>0.5</priority>
-      
-      
-    </url>
-  
-    <url>
-      <loc>https://streptomises.github.io/tags/visual-novel/</loc>
-      
-      <lastmod>2020-04-21T04:30:26+07:00</lastmod>
-      
-      
-      <changefreq>monthly</changefreq>
-      
-      
-      <priority>0.5</priority>
-      
-      
-    </url>
-  
-    <url>
-      <loc>https://streptomises.github.io/2020/visual-novel-sederhana-untuk-grup-wa-keluarga/</loc>
-      
-      <lastmod>2020-04-21T04:30:26+07:00</lastmod>
-      
-      
-      <changefreq>monthly</changefreq>
-      
-      
-      <priority>0.5</priority>
-      
-      
-    </url>
-  
-    <url>
-      <loc>https://streptomises.github.io/categories/</loc>
-      
-      
-      <changefreq>monthly</changefreq>
-      
-      
-      <priority>0.5</priority>
-      
-      
-    </url>
-  
+  <url>
+    <loc>https://streptomises.github.io/about/</loc>
+    <lastmod>2023-04-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://streptomises.github.io/</loc>
+    <lastmod>2022-10-14T21:04:12+07:00</lastmod>
+  </url><url>
+    <loc>https://streptomises.github.io/post/disablekeyboard/</loc>
+    <lastmod>2022-10-14T21:04:12+07:00</lastmod>
+  </url><url>
+    <loc>https://streptomises.github.io/post/</loc>
+    <lastmod>2022-10-14T21:04:12+07:00</lastmod>
+  </url><url>
+    <loc>https://streptomises.github.io/tags/</loc>
+    <lastmod>2022-10-14T21:04:12+07:00</lastmod>
+  </url><url>
+    <loc>https://streptomises.github.io/tags/windows/</loc>
+    <lastmod>2022-10-14T21:04:12+07:00</lastmod>
+  </url><url>
+    <loc>https://streptomises.github.io/tags/anime/</loc>
+    <lastmod>2022-06-23T21:26:29+07:00</lastmod>
+  </url><url>
+    <loc>https://streptomises.github.io/post/yorimoi/</loc>
+    <lastmod>2022-06-23T21:26:29+07:00</lastmod>
+  </url><url>
+    <loc>https://streptomises.github.io/post/popcatrecyclebin/</loc>
+    <lastmod>2022-06-04T22:45:25+07:00</lastmod>
+  </url><url>
+    <loc>https://streptomises.github.io/post/bikinundanganonline/</loc>
+    <lastmod>2021-11-17T22:15:05+07:00</lastmod>
+  </url><url>
+    <loc>https://streptomises.github.io/tags/undangan/</loc>
+    <lastmod>2021-11-17T22:15:05+07:00</lastmod>
+  </url><url>
+    <loc>https://streptomises.github.io/tags/web/</loc>
+    <lastmod>2021-11-17T22:15:05+07:00</lastmod>
+  </url><url>
+    <loc>https://streptomises.github.io/post/hapuseditcontextmenuwindows/</loc>
+    <lastmod>2021-05-18T00:47:20+07:00</lastmod>
+  </url><url>
+    <loc>https://streptomises.github.io/post/ukuranflashdiskberubahsetelahdigunakanuntukinstalsistemoperasi/</loc>
+    <lastmod>2021-03-25T03:32:46+07:00</lastmod>
+  </url><url>
+    <loc>https://streptomises.github.io/post/asuslaptopbatteryhealthchargingpadaelementaryos/</loc>
+    <lastmod>2021-03-25T03:31:56+07:00</lastmod>
+  </url><url>
+    <loc>https://streptomises.github.io/tags/elementaryos/</loc>
+    <lastmod>2021-03-25T03:31:56+07:00</lastmod>
+  </url><url>
+    <loc>https://streptomises.github.io/post/hargacoretpadabrooklyn/</loc>
+    <lastmod>2021-03-04T23:52:37+07:00</lastmod>
+  </url><url>
+    <loc>https://streptomises.github.io/tags/shopify/</loc>
+    <lastmod>2021-03-04T23:52:37+07:00</lastmod>
+  </url><url>
+    <loc>https://streptomises.github.io/tags/android/</loc>
+    <lastmod>2021-03-04T23:51:51+07:00</lastmod>
+  </url><url>
+    <loc>https://streptomises.github.io/post/menghapusbloatwareaplikasibawaanandroid/</loc>
+    <lastmod>2021-03-04T23:51:51+07:00</lastmod>
+  </url><url>
+    <loc>https://streptomises.github.io/tags/irl/</loc>
+    <lastmod>2021-02-22T17:35:02+07:00</lastmod>
+  </url><url>
+    <loc>https://streptomises.github.io/post/pantaubanjirdipekalonganmelaluicctv/</loc>
+    <lastmod>2021-02-22T17:35:02+07:00</lastmod>
+  </url><url>
+    <loc>https://streptomises.github.io/post/bikin-daftar-link-buat-ditaruh-di-instagram/</loc>
+    <lastmod>2021-02-08T21:55:49+07:00</lastmod>
+  </url><url>
+    <loc>https://streptomises.github.io/tags/covid-19/</loc>
+    <lastmod>2020-11-24T05:00:26+07:00</lastmod>
+  </url><url>
+    <loc>https://streptomises.github.io/post/mengumpulkan-tweet-yang-membicarakan-laporcovid-19/</loc>
+    <lastmod>2020-11-24T05:00:26+07:00</lastmod>
+  </url><url>
+    <loc>https://streptomises.github.io/tags/python/</loc>
+    <lastmod>2020-11-24T05:00:26+07:00</lastmod>
+  </url><url>
+    <loc>https://streptomises.github.io/tags/twint/</loc>
+    <lastmod>2020-11-24T05:00:26+07:00</lastmod>
+  </url><url>
+    <loc>https://streptomises.github.io/tags/visual-novel/</loc>
+    <lastmod>2020-04-21T04:30:26+07:00</lastmod>
+  </url><url>
+    <loc>https://streptomises.github.io/post/visual-novel-sederhana-untuk-grup-wa-keluarga/</loc>
+    <lastmod>2020-04-21T04:30:26+07:00</lastmod>
+  </url><url>
+    <loc>https://streptomises.github.io/archives/</loc>
+    <lastmod>2019-05-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://streptomises.github.io/contact/</loc>
+    <lastmod>2019-02-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://streptomises.github.io/categories/</loc>
+  </url><url>
+    <loc>https://streptomises.github.io/tags/index/</loc>
+  </url><url>
+    <loc>https://streptomises.github.io/series/</loc>
+  </url>
 </urlset>

@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>windows on octaviYAWN</title>
+    <title>windows on ///// //</title>
     <link>https://streptomises.github.io/tags/windows/</link>
-    <description>Recent content in windows on octaviYAWN</description>
+    <description>Recent content in windows on ///// //</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Fri, 14 Oct 2022 21:04:12 +0700</lastBuildDate><atom:link href="https://streptomises.github.io/tags/windows/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>disable keyboard laptop</title>
-      <link>https://streptomises.github.io/2022/disablekeyboard/</link>
+      <link>https://streptomises.github.io/post/disablekeyboard/</link>
       <pubDate>Fri, 14 Oct 2022 21:04:12 +0700</pubDate>
       
-      <guid>https://streptomises.github.io/2022/disablekeyboard/</guid>
+      <guid>https://streptomises.github.io/post/disablekeyboard/</guid>
       <description>cmd
 sc config i8042prt start= disabled </description>
     </item>
     
     <item>
       <title>p o p c a t  r e c y c l e b i n</title>
-      <link>https://streptomises.github.io/2022/popcatrecyclebin/</link>
+      <link>https://streptomises.github.io/post/popcatrecyclebin/</link>
       <pubDate>Sat, 04 Jun 2022 22:45:25 +0700</pubDate>
       
-      <guid>https://streptomises.github.io/2022/popcatrecyclebin/</guid>
+      <guid>https://streptomises.github.io/post/popcatrecyclebin/</guid>
       <description>popcat icon
 regedit
 Computer\HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\CLSID{645FF040-5081-101B-9F08-00AA002F954E}\DefaultIcon default .ico &amp;gt; ico,0
@@ -31,49 +31,20 @@ full .ico &amp;gt; ico,0</description>
     </item>
     
     <item>
-      <title>otomatis menampilkan jumlah uang excel</title>
-      <link>https://streptomises.github.io/2022/terbilang/</link>
-      <pubDate>Wed, 23 Mar 2022 23:50:12 +0700</pubDate>
-      
-      <guid>https://streptomises.github.io/2022/terbilang/</guid>
-      <description>Add-Ins =terbilang(letaknya)</description>
-    </item>
-    
-    <item>
-      <title>install lagi aplikasi bawaan windows 11 yang terhapus</title>
-      <link>https://streptomises.github.io/2022/installaplikasibawaanwin11/</link>
-      <pubDate>Wed, 23 Mar 2022 23:43:12 +0700</pubDate>
-      
-      <guid>https://streptomises.github.io/2022/installaplikasibawaanwin11/</guid>
-      <description>powershell
-Get-AppxPackage Microsoft.SecHealthUI -AllUsers | Reset-AppxPackage </description>
-    </item>
-    
-    <item>
-      <title>install hugo di windows 11</title>
-      <link>https://streptomises.github.io/2022/installhugo/</link>
-      <pubDate>Wed, 23 Mar 2022 23:36:03 +0700</pubDate>
-      
-      <guid>https://streptomises.github.io/2022/installhugo/</guid>
-      <description>powershell
-Set-ExecutionPolicy RemoteSigned -scope CurrentUser iwr -useb get.scoop.sh | iex scoop install hugo </description>
-    </item>
-    
-    <item>
       <title>hapus/edit context menu windows</title>
-      <link>https://streptomises.github.io/2021/hapuseditcontextmenuwindows/</link>
+      <link>https://streptomises.github.io/post/hapuseditcontextmenuwindows/</link>
       <pubDate>Tue, 18 May 2021 00:47:20 +0700</pubDate>
       
-      <guid>https://streptomises.github.io/2021/hapuseditcontextmenuwindows/</guid>
-      <description>buka regedit cari HKEY_CLASSES_ROOT\Directory\shell</description>
+      <guid>https://streptomises.github.io/post/hapuseditcontextmenuwindows/</guid>
+      <description>run regedit cari HKEY_CLASSES_ROOT\Directory\shell</description>
     </item>
     
     <item>
       <title>ukuran flash disk berubah setelah digunakan untuk instal sistem operasi?</title>
-      <link>https://streptomises.github.io/2021/ukuranflashdiskberubahsetelahdigunakanuntukinstalsistemoperasi/</link>
+      <link>https://streptomises.github.io/post/ukuranflashdiskberubahsetelahdigunakanuntukinstalsistemoperasi/</link>
       <pubDate>Thu, 25 Mar 2021 03:32:46 +0700</pubDate>
       
-      <guid>https://streptomises.github.io/2021/ukuranflashdiskberubahsetelahdigunakanuntukinstalsistemoperasi/</guid>
+      <guid>https://streptomises.github.io/post/ukuranflashdiskberubahsetelahdigunakanuntukinstalsistemoperasi/</guid>
       <description>cmd/powershell
 diskpart list disk select disk (pilih nomer flash drive berada) clean create partition primary format fs=fat32 quick </description>
     </item>

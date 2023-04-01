@@ -1,38 +1,28 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>covid-19 on octaviYAWN</title>
+    <title>covid-19 on ///// //</title>
     <link>https://streptomises.github.io/tags/covid-19/</link>
-    <description>Recent content in covid-19 on octaviYAWN</description>
+    <description>Recent content in covid-19 on ///// //</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Tue, 24 Nov 2020 05:00:26 +0700</lastBuildDate><atom:link href="https://streptomises.github.io/tags/covid-19/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Mengumpulkan Tweet yang Membicarakan LaporCovid-19</title>
-      <link>https://streptomises.github.io/2020/mengumpulkan-tweet-yang-membicarakan-laporcovid-19/</link>
+      <link>https://streptomises.github.io/post/mengumpulkan-tweet-yang-membicarakan-laporcovid-19/</link>
       <pubDate>Tue, 24 Nov 2020 05:00:26 +0700</pubDate>
       
-      <guid>https://streptomises.github.io/2020/mengumpulkan-tweet-yang-membicarakan-laporcovid-19/</guid>
+      <guid>https://streptomises.github.io/post/mengumpulkan-tweet-yang-membicarakan-laporcovid-19/</guid>
       <description>1. Instal python 2. Instal Twint pip3 install --user --upgrade -e git+https://github.com/twintproject/twint.git@origin/master#egg=twint
-3. Jalankan command Twint twint -s &amp;quot;laporcovid-19&amp;quot; -o nanana.csv --csv
-  </description>
-    </item>
-    
-    <item>
-      <title>Data COVID-19</title>
-      <link>https://streptomises.github.io/2020/datacovid19/</link>
-      <pubDate>Sat, 08 Aug 2020 01:16:31 +0700</pubDate>
-      
-      <guid>https://streptomises.github.io/2020/datacovid19/</guid>
-      <description>1. Dunia   2. Indonesia  3. Jawa Tengah  var divElement = document.getElementById(&#39;viz1596821368058&#39;); var vizElement = divElement.getElementsByTagName(&#39;object&#39;)[0]; if ( divElement.offsetWidth  800 ) { vizElement.style.width=&#39;100%&#39;;vizElement.style.height=(divElement.offsetWidth*0.75)+&#39;px&#39;;} else if ( divElement.offsetWidth  500 ) { vizElement.style.width=&#39;100%&#39;;vizElement.style.height=(divElement.offsetWidth*0.75)+&#39;px&#39;;} else { vizElement.style.width=&#39;100%&#39;;vizElement.style.height=(divElement.offsetWidth*1.77)+&#39;px&#39;;} var scriptElement = document.createElement(&#39;script&#39;); scriptElement.src = &#39;https://public.tableau.com/javascripts/api/viz_v1.js&#39;; vizElement.parentNode.insertBefore(scriptElement, vizElement); 4. Pekalongan Dapat data dari Pemkab dan Pemkot Pekalongan dicatat di Google Sheet lalu diembed kesini, akan saya update kalo ngga males.</description>
+3. Jalankan command Twint twint -s &amp;quot;laporcovid-19&amp;quot; -o nanana.csv --csv</description>
     </item>
     
     <item>
       <title>Visual Novel Tentang COVID-19 Untuk Grup WhatsApp Keluarga</title>
-      <link>https://streptomises.github.io/2020/visual-novel-sederhana-untuk-grup-wa-keluarga/</link>
+      <link>https://streptomises.github.io/post/visual-novel-sederhana-untuk-grup-wa-keluarga/</link>
       <pubDate>Tue, 21 Apr 2020 04:30:26 +0700</pubDate>
       
-      <guid>https://streptomises.github.io/2020/visual-novel-sederhana-untuk-grup-wa-keluarga/</guid>
+      <guid>https://streptomises.github.io/post/visual-novel-sederhana-untuk-grup-wa-keluarga/</guid>
       <description>Seperti kebanyakan cerita dari netizen, grup WhatsApp keluarga menjadi tempat lalu lalang berbagai Hoax, karenanya saya terpikirkan untuk membuat Visual Novel.
 Visual Novelnya menceritakan tentang Sari yang menanyakan pertanyaan seputar COVID-19 lalu Pemain (Keluarga di grup WA) memilih jawaban yang kemudian akan dijelaskan oleh Sari mengapa jawaban itu benar/salah, untuk materi seputar COVID-19 saya mengambil dari media di Indonesia maupun WHO.
 Visual Novel ini dibuat menggunakan Monogatari. Begini langkah-langkah saya dalam membuatnya,</description>

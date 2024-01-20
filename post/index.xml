@@ -68,9 +68,9 @@ diskpart list disk select disk (pilih nomer flash drive berada) clean create par
     </item>
     
     <item>
-      <title>asus battery health charging elementaryos</title>
+      <title>charging limiter</title>
       <link>https://www.octaviyawn.xyz/post/asuslaptopbatteryhealthchargingpadaelementaryos/</link>
-      <pubDate>Thu, 25 Mar 2021 03:31:56 +0700</pubDate>
+      <pubDate>Mon, 08 Mar 2021 21:55:49 +0700</pubDate>
       
       <guid>https://www.octaviyawn.xyz/post/asuslaptopbatteryhealthchargingpadaelementaryos/</guid>
       <description>buka terminal pada folder battery-manager-linux
@@ -79,7 +79,7 @@ chmod +x limit.sh ./limit.sh 60 sudo nano /etc/crontab masukan
     </item>
     
     <item>
-      <title>harga coret broklyn</title>
+      <title>harga coret</title>
       <link>https://www.octaviyawn.xyz/post/hargacoretpadabrooklyn/</link>
       <pubDate>Thu, 04 Mar 2021 23:52:37 +0700</pubDate>
       

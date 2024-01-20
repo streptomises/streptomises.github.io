@@ -8,7 +8,7 @@
     <language>en</language>
     <lastBuildDate>Fri, 14 Oct 2022 21:04:12 +0700</lastBuildDate><atom:link href="https://www.octaviyawn.xyz/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>disable keyboard laptop</title>
+      <title>disable keyboard</title>
       <link>https://www.octaviyawn.xyz/post/disablekeyboard/</link>
       <pubDate>Fri, 14 Oct 2022 21:04:12 +0700</pubDate>
       
@@ -40,7 +40,7 @@ full .ico &amp;gt; ico,0</description>
     </item>
     
     <item>
-      <title>bikin undangan online</title>
+      <title>undangan</title>
       <link>https://www.octaviyawn.xyz/post/bikinundanganonline/</link>
       <pubDate>Wed, 17 Nov 2021 22:15:05 +0700</pubDate>
       
@@ -49,7 +49,7 @@ full .ico &amp;gt; ico,0</description>
     </item>
     
     <item>
-      <title>hapus/edit context menu windows</title>
+      <title>context menu</title>
       <link>https://www.octaviyawn.xyz/post/hapuseditcontextmenuwindows/</link>
       <pubDate>Tue, 18 May 2021 00:47:20 +0700</pubDate>
       
@@ -58,7 +58,7 @@ full .ico &amp;gt; ico,0</description>
     </item>
     
     <item>
-      <title>ukuran flash disk berubah setelah digunakan untuk instal sistem operasi?</title>
+      <title>reset fd</title>
       <link>https://www.octaviyawn.xyz/post/ukuranflashdiskberubahsetelahdigunakanuntukinstalsistemoperasi/</link>
       <pubDate>Thu, 25 Mar 2021 03:32:46 +0700</pubDate>
       
@@ -68,7 +68,7 @@ diskpart list disk select disk (pilih nomer flash drive berada) clean create par
     </item>
     
     <item>
-      <title>asus laptop battery health charging pada elementaryos</title>
+      <title>asus battery health charging elementaryos</title>
       <link>https://www.octaviyawn.xyz/post/asuslaptopbatteryhealthchargingpadaelementaryos/</link>
       <pubDate>Thu, 25 Mar 2021 03:31:56 +0700</pubDate>
       
@@ -79,7 +79,7 @@ chmod +x limit.sh ./limit.sh 60 sudo nano /etc/crontab masukan
     </item>
     
     <item>
-      <title>membuat harga coret diskon pada shopify brooklyn theme</title>
+      <title>harga coret broklyn</title>
       <link>https://www.octaviyawn.xyz/post/hargacoretpadabrooklyn/</link>
       <pubDate>Thu, 04 Mar 2021 23:52:37 +0700</pubDate>
       
@@ -89,7 +89,7 @@ chmod +x limit.sh ./limit.sh 60 sudo nano /etc/crontab masukan
     </item>
     
     <item>
-      <title>hapus bloatware / aplikasi bawaan android tanpa akses root</title>
+      <title>remove bloatware</title>
       <link>https://www.octaviyawn.xyz/post/menghapusbloatwareaplikasibawaanandroid/</link>
       <pubDate>Thu, 04 Mar 2021 23:51:51 +0700</pubDate>
       
@@ -100,7 +100,7 @@ adb shell pm uninstall -k --user 0 &amp;lt;name of package&amp;gt; </description
     </item>
     
     <item>
-      <title>pantau banjir di pekalongan melalui cctv</title>
+      <title>cctv pkl</title>
       <link>https://www.octaviyawn.xyz/post/pantaubanjirdipekalonganmelaluicctv/</link>
       <pubDate>Mon, 22 Feb 2021 17:35:02 +0700</pubDate>
       
@@ -110,7 +110,7 @@ Matahari Stasiun Alun Alun Ponolawen Terminal Timur Terminal Barat Terminal Utar
     </item>
     
     <item>
-      <title>bikin daftar link buat ditaruh di instagram</title>
+      <title>daftar link</title>
       <link>https://www.octaviyawn.xyz/post/bikin-daftar-link-buat-ditaruh-di-instagram/</link>
       <pubDate>Mon, 08 Feb 2021 21:55:49 +0700</pubDate>
       
@@ -119,7 +119,7 @@ Matahari Stasiun Alun Alun Ponolawen Terminal Timur Terminal Barat Terminal Utar
     </item>
     
     <item>
-      <title>Mengumpulkan Tweet yang Membicarakan LaporCovid-19</title>
+      <title>scrape tweets</title>
       <link>https://www.octaviyawn.xyz/post/mengumpulkan-tweet-yang-membicarakan-laporcovid-19/</link>
       <pubDate>Tue, 24 Nov 2020 05:00:26 +0700</pubDate>
       
@@ -129,7 +129,7 @@ Matahari Stasiun Alun Alun Ponolawen Terminal Timur Terminal Barat Terminal Utar
     </item>
     
     <item>
-      <title>Visual Novel Tentang COVID-19 Untuk Grup WhatsApp Keluarga</title>
+      <title>Sari</title>
       <link>https://www.octaviyawn.xyz/post/visual-novel-sederhana-untuk-grup-wa-keluarga/</link>
       <pubDate>Tue, 21 Apr 2020 04:30:26 +0700</pubDate>
       

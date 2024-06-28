@@ -27,6 +27,16 @@ Email Instagram YouTube Spotify Steam Play Store </description>
     </item>
     
     <item>
+      <title>disable keyboard</title>
+      <link>https://www.octaviyawn.xyz/post/disablekeyboard/</link>
+      <pubDate>Fri, 14 Oct 2022 21:04:12 +0700</pubDate>
+      
+      <guid>https://www.octaviyawn.xyz/post/disablekeyboard/</guid>
+      <description>cmd
+sc config i8042prt start= disabled </description>
+    </item>
+    
+    <item>
       <title>宇宙よりも远い场所</title>
       <link>https://www.octaviyawn.xyz/post/yorimoi/</link>
       <pubDate>Thu, 23 Jun 2022 21:26:29 +0700</pubDate>
@@ -36,7 +46,7 @@ Email Instagram YouTube Spotify Steam Play Store </description>
     </item>
     
     <item>
-      <title>popcat recyclebin</title>
+      <title>p o p c a t  r e c y c l e b i n</title>
       <link>https://www.octaviyawn.xyz/post/popcatrecyclebin/</link>
       <pubDate>Sat, 04 Jun 2022 22:45:25 +0700</pubDate>
       
@@ -46,6 +56,15 @@ regedit
 Computer\HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\CLSID{645FF040-5081-101B-9F08-00AA002F954E}\DefaultIcon default .ico &amp;gt; ico,0
 empty .ico &amp;gt; ico,0
 full .ico &amp;gt; ico,0</description>
+    </item>
+    
+    <item>
+      <title>undangan</title>
+      <link>https://www.octaviyawn.xyz/post/bikinundanganonline/</link>
+      <pubDate>Wed, 17 Nov 2021 22:15:05 +0700</pubDate>
+      
+      <guid>https://www.octaviyawn.xyz/post/bikinundanganonline/</guid>
+      <description> </description>
     </item>
     
     <item>
@@ -79,6 +98,16 @@ chmod +x limit.sh ./limit.sh 60 sudo nano /etc/crontab masukan
     </item>
     
     <item>
+      <title>harga coret</title>
+      <link>https://www.octaviyawn.xyz/post/hargacoretpadabrooklyn/</link>
+      <pubDate>Thu, 04 Mar 2021 23:52:37 +0700</pubDate>
+      
+      <guid>https://www.octaviyawn.xyz/post/hargacoretpadabrooklyn/</guid>
+      <description>replace product-grid-item.liquid
+&amp;lt;!-- /snippets/product-grid-item.liquid --&amp;gt; {% unless grid_item_width %} {% assign grid_item_width = &amp;#39;large--one-third medium--one-half&amp;#39; %} {% endunless %} {% unless width %} {%- assign width = 310 -%} {% endunless %} {% unless height %} {%- assign height = 415 -%} {% endunless %} {% assign on_sale = false %} {% if product.compare_at_price &amp;gt; product.price %} {% assign on_sale = true %} {% endif %} {% assign sold_out = true %} {% if product.</description>
+    </item>
+    
+    <item>
       <title>remove bloatware</title>
       <link>https://www.octaviyawn.xyz/post/menghapusbloatwareaplikasibawaanandroid/</link>
       <pubDate>Thu, 04 Mar 2021 23:51:51 +0700</pubDate>
@@ -97,6 +126,15 @@ adb shell pm uninstall -k --user 0 &amp;lt;name of package&amp;gt; </description
       <guid>https://www.octaviyawn.xyz/post/pantaubanjirdipekalonganmelaluicctv/</guid>
       <description>Pake Chrome? install Play HLS M3u8
 Matahari Stasiun Alun Alun Ponolawen Terminal Timur Terminal Barat Terminal Utara Posis Timur Posis Utara Posis Barat Dharma Bakti Timur Dharma Bakti Barat Dharma Bakti Selatan Ahmad Yani PTZ Muhammadiyah Timur Muhammadiyah Barat Muhammadiyah Selatan Muhammadiyah Utara Pusri TImur Pusri Barat Pusri Selatan Tirto Barat Tirto Timur Tirto Selatan Grogolan PTZ Grogolan Barat Grogolan Utara Ponolawen Timur Ponolawen Utara Ponolawen Selatan Gambaran PTZ Polsek Timur PTZ THR Dr Cipto Sorogenen Exit Tol Setono Ampera IR Sutami Exit Tol Bojong </description>
+    </item>
+    
+    <item>
+      <title>daftar link</title>
+      <link>https://www.octaviyawn.xyz/post/bikin-daftar-link-buat-ditaruh-di-instagram/</link>
+      <pubDate>Mon, 08 Feb 2021 21:55:49 +0700</pubDate>
+      
+      <guid>https://www.octaviyawn.xyz/post/bikin-daftar-link-buat-ditaruh-di-instagram/</guid>
+      <description>&amp;lt;html lang=&amp;#34;en&amp;#34;&amp;gt; &amp;lt;head&amp;gt; &amp;lt;meta charset=&amp;#34;UTF-8&amp;#34;&amp;gt; &amp;lt;meta name=&amp;#34;viewport&amp;#34; content=&amp;#34;width=device-width, initial-scale=1.0&amp;#34;&amp;gt; &amp;lt;title&amp;gt;Daftar Link&amp;lt;/title&amp;gt; &amp;lt;style&amp;gt; body { background: black; color: #fff; font-family: &amp;#39;Open Sans&amp;#39;, sans-serif; font-size: 15px; letter-spacing: 2px; } img { border-radius: 50%; } .profile-picture { display: block; margin-left: auto; margin-right: auto; margin-top: 10%; height: auto; max-width: 100px; } .profile-name { text-align: center; padding: 30px; } .links { text-align: center; margin-top: 20px; padding: 20px; border: 1px solid white; border-width: 2px; width: 290px; display: block; margin-left: auto; margin-right: auto; border-radius: 40px; } a { text-decoration: none; color: white; transition: color 1s; } .</description>
     </item>
     
     <item>
